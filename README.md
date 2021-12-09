@@ -21,6 +21,14 @@ Dev Environments:
 3. MacOS
 
 
+## What I do Besides Coding?
+- Mountain Biking
+- Reading Books
+- Strum Guitar
+- Sketch
+- Basketball
+
+
 ## Contact Me:
 
 - email: aidenpearce1204@gmail.com

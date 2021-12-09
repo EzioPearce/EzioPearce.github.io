@@ -4,4 +4,12 @@ My name is krishna and I am a final Year Student studying Cloud Computing and Bi
 My Skill Set Include:
 1. Cloud Computing
 2. Data Science
-3. Blockchain 
+3. Web Dev
+4. Blockchain 
+
+Programming Languages and Tech Stacks 
+1. Python
+2. C/C++
+3. Golang
+4. R
+5. MERN Stack

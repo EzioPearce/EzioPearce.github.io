@@ -1,5 +1,5 @@
 # Hello There
-My name is krishna and I am a final Year Student studying Cloud Computing and Big Data
+I am a final Year Student studying Cloud Computing and Big Data
 
 My Skill Set Include:
 1. Cloud Computing

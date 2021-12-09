@@ -19,3 +19,8 @@ Dev Environments:
 1. Ubuntu, Vim/VSCode (preferred)
 2. Windows
 3. MacOS
+
+
+## Contact Me:
+
+- email: aidenpearce1204@gmail.com

@@ -31,4 +31,4 @@ Dev Environments:
 
 ## Contact Me:
 
-- email: aidenpearce1204@gmail.com
+- email: [aidenpearce1204@gmail.com](aidenpearce1204@gmail.com)

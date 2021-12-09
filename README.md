@@ -13,3 +13,9 @@ Programming Languages and Tech Stacks
 3. Golang
 4. R
 5. MERN Stack
+
+
+Dev Environments:
+1. Ubuntu, Vim/VSCode (preferred)
+2. Windows
+3. MacOS

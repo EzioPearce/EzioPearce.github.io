@@ -8,7 +8,7 @@ My Skill Set Include:
 4. Blockchain 
 
 Programming Languages and Tech Stacks 
-1. Python ![image](pythonimg.png)
+1. Python ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw1jK-YfAoDOVuL35KgVfklO&ust=1639219229133000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLio2NGF2fQCFQAAAAAdAAAAABAD)
 2. C/C++
 3. Golang
 4. R

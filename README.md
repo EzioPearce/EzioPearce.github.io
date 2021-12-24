@@ -12,6 +12,7 @@ Programming Languages and Tech Stacks
 2. C/C++
 3. Golang
 4. MERN Stack
+5. Rust
 
 
 Dev Environments:

@@ -27,6 +27,16 @@ Dev Environments:
 
 2. Traceabl: CTO:
     -Architected and Deployed Blockchain Models to enable traceability of textile products
+    
+   
+## Certifications Cokpleted:
+- MTA Python Programming
+- AI and ML For Business
+- ISRO: GIS 
+- NPTEL: IoT
+- EthicalByte: IoT
+- Udemy: Blockchain A-Z
+- Udemy: Machine Learning A-Z
 
 
 ## What I do Besides Coding?

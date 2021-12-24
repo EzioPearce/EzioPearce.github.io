@@ -21,11 +21,11 @@ Dev Environments:
 
 
 ## Work Experience:
-1. Integration Wizards: Computer Vision Programmer Intern (present)
+1. Integration Wizards: Computer Vision Programmer Intern (present) \n
       Develop and Deploy Training models for the Dataset using for CCTV Cameras that use Computer Vision
 
 
-2. Traceabl: CTO
+2. Traceabl: CTO \n
     Architected and Deployed Blockchain Models to enable traceability of textile products
 
 

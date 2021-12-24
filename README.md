@@ -16,8 +16,8 @@ Programming Languages and Tech Stacks
 
 Dev Environments:
 1. Ubuntu, Vim/VSCode (preferred)
-2. Windows
-3. MacOS
+2. MacOS
+3. Windows
 
 
 ## What I do Besides Coding?

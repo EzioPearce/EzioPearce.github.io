@@ -6,6 +6,7 @@ My Skill Set Include:
 2. Computer Vision
 3. Web Dev (MERN Stack)
 4. Blockchain 
+5. Cybersecurity
 
 Programming Languages and Tech Stacks 
 1. Python 

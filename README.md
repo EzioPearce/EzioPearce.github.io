@@ -4,7 +4,7 @@ I am a final Year Student studying Cloud Computing and Big Data
 My Skill Set Include:
 1. Cloud Computing
 2. Computer Vision
-3. Web Dev
+3. Web Dev (MERN Stack)
 4. Blockchain 
 
 Programming Languages and Tech Stacks 

@@ -39,6 +39,7 @@ Dev Environments:
 - EthicalByte: IoT
 - Udemy: Blockchain A-Z
 - Udemy: Machine Learning A-Z
+- Microsoft Security Fundamentals
 
 
 ## What I do Besides Coding?

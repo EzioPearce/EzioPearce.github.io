@@ -31,7 +31,7 @@ Dev Environments:
     -Architected and Deployed Blockchain Models to enable traceability of textile products
     
    
-## Certifications Cokpleted:
+## Certifications Completed:
 - MTA Python Programming
 - AI and ML For Business
 - ISRO: GIS 
@@ -48,6 +48,12 @@ Dev Environments:
 - Strum Guitar
 - Sketch
 - Basketball
+
+
+## Other Achievements:
+- International MUNs
+- National Level Writer
+
 
 
 ## Contact Me:

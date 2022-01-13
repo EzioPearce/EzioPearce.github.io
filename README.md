@@ -18,7 +18,7 @@ Programming Languages and Tech Stacks
 
 Dev Environments:
 1. Ubuntu, Vim/VSCode (preferred)
-2. MacOS
+2. MacOS, VScode/Xcode
 3. Windows
 
 

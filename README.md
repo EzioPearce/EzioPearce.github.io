@@ -7,12 +7,13 @@ My Skill Set Include:
 3. Web Dev (MERN Stack)
 4. Blockchain 
 5. Cybersecurity
+6. Unreal Engine
 
 Programming Languages and Tech Stacks 
 1. Python 
 2. C/C++
 3. Golang
-4. MERN Stack
+4. JavaScript
 5. Rust
 
 

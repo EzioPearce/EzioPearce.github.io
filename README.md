@@ -2,7 +2,7 @@
 I am a final Year Student studying Cloud Computing and Big Data
 
 My Skill Set Include:
-1. Cloud Computing
+1. Cloud Computing - AWS, GCP
 2. Computer Vision
 3. Pytorch
 4. Web Dev (MERN Stack)
@@ -25,11 +25,18 @@ Dev Environments:
 
 
 ## Work Experience:
-1. Integration Wizards: Computer Vision Programmer Intern (present):
-      -Develop and Deploy Training models for the Dataset using for CCTV Cameras that use Computer Vision
+
+1. Vocuni: SDE Intern (March 2022 - April 2022)
+      - Developed front-end for spreading awareness on Climate change using JavaScript
+      -Maintained Linux Servers at the backend
+      
+      
+2. Integration Wizards: Computer Vision Programmer Intern (December 2021 - February 2022):
+      -Develop and Deploy Training models for vehicle detection using Python, OpenCV, Yolov5
+      -Helped in image annotation using labelimg
 
 
-2. Traceabl: CTO:
+3. Traceabl: CTO:
     -Architected and Deployed Blockchain Models to enable traceability of textile products
     
    
@@ -42,6 +49,10 @@ Dev Environments:
 - Udemy: Blockchain A-Z
 - Udemy: Machine Learning A-Z
 - Microsoft Security Fundamentals
+-Coursera: AWS for Machine Learning
+-Coursera: GluonCV
+-Coursera: Azure Devops Dashboard
+Coursera: Google Data Analytics (In progress)
 
 
 ## What I do Besides Coding?
@@ -53,8 +64,9 @@ Dev Environments:
 
 
 ## Other Achievements:
-- International MUNs
-- National Level Writer
+- Took part in multiple Model United Nations conferences at both National and Intenational Stage
+- Won the National Level Scientific essay writing competition held by Department of Atomic Energy
+- Won multiple art competitions.
 
 
 

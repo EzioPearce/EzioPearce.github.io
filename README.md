@@ -6,16 +6,21 @@ I have experience in setting up complete end to end infrastructure on cloud and 
 
 ### My Skillset
 1. Programming Languages:
-         - Rust
-         - Golang
-         - Python
-         - C
-         - JavaScript (Nest +Next)
+   - Rust
+   - Golang
+   - Python
+   - C
+  - JavaScript (Nest +Next)
 2. DataBases
-         - PostgreSQL
-         - CockRoachDB
-         - MongoDB
+   - PostgreSQL
+   - CockRoachDB
+   - MongoDB
 3. Cloud
-         - AWS
-         - GCP
-         -OpenStack
+   - AWS
+   - GCP
+   - OpenStack
+
+5. Container Technologies:
+   - Docker
+   - Kubernetes
+   - Podman

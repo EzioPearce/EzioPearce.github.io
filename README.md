@@ -10,7 +10,7 @@ I have experience in setting up complete end to end infrastructure on cloud and 
    - Golang
    - Python
    - C
-  - JavaScript (Nest +Next)
+   - JavaScript (Nest +Next)
 2. DataBases
    - PostgreSQL
    - CockRoachDB

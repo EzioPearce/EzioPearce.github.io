@@ -10,7 +10,7 @@ I have experience in setting up complete end to end cloud infrastructure on clou
 -   Set-up the complete cloud infra on Google Cloud platform and migrated the entire organisation infra and services from AWS tp GCP in a record 2 weeks. There was no recorded downtime during this entire procedure.
   -  Handled traffic on our servers with over 50K Daiy Active Users
 -  Led the entire End to end security for the organisation to ensure Soc2 and ISO 27001 Compliance (In progress)
-  - Developed the system architecture for over 15+ Core Artificial and Machine Learning Services
+  - Developed the system architecture for over 15+ Core Artificial Intelligence and Machine Learning Services
 
 ### My Skillset
 1. Programming Languages:

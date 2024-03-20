@@ -1,8 +1,16 @@
 ### Hello There,
 
-I am a DevOps and Site Reliability Engineer workign at Flam. I Pursued my bachelors in Computer Science with a specialization in Big Data and Cloud Computing. 
+I am a DevOps and Site Reliability Engineer working at Flam.
 
-I have experience in setting up complete end to end infrastructure on cloud and creating an effective, streamlined and cost efficient production netowrk serivng maximum uptime.
+I have experience in setting up complete end to end cloud infrastructure on cloud, handling large scale traffic on social media and advertising industry, optimizing code to ensure sleek, reliable and scalable architecture with a maximum uptime and minimal latency.
+
+
+### What Have I done So far?
+a. Reduced the cloud computing cost by over 60% with double the workload by implementing critcal IAM strategies, using spot instances for dev, ensuring definitve cleanup of resources, etc.
+b. Set-up the complete cloud infra on Google Cloud platform and migrated the entire organisation infra and services from AWS tp GCP in a record 2 weeks. There was no recorded downtime during this entire procedure.
+c. Handled traffic on our servers with over 50K Daiy Active Users
+d. Led the entire End to end security for the organisation to ensure Soc2 and ISO 27001 Compliance (In progress)
+e. Developed the system architecture for over 15+ Core Artificial and Machine Learning Services
 
 ### My Skillset
 1. Programming Languages:
